@@ -149,3 +149,20 @@ As a beginner programmer, I’ve made plenty of mistakes creating this game—fr
 
 If you fell in love with this project and want to contribute, bring your joy and creativity. We need you to make this game even better!
 
+---
+
+### How to play it?
+1. **Install Python**  
+   Download and install Python
+   
+3. **Download VS Code**  
+   Download and install Visual Studio Code
+
+4. **Download My Files**  
+   Obtain the project files and save them to your desired location.
+
+5. **Open VS Code Under This Folder**  
+   Launch VS Code and open the folder containing the downloaded files.
+
+6. **Open the Main File and Press Run**  
+   Open the main Python file in VS Code and press the "Run" button to execute it.
