@@ -1,5 +1,5 @@
 # SPEX - Spirit of Exploration
-
+![Title image](https://github.com/felioncactus/SPEX/blob/main/screenshots/title.gif?raw=true)
 Welcome to the wonderful world of programming! SPEX is a game designed to introduce beginners (just like me) to the basics of coding in a fun and interactive way. Whether you want to program a robot or design an environment, this game has something for you.
 
 #### Core Philosophy
