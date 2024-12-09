@@ -1,2 +1,2 @@
-# SPEX
-SPEX - Spirit of Exploration
+# SPEX - Spirit of Exploration
+
