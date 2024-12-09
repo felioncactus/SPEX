@@ -147,5 +147,5 @@ Press **T** to open the tool menu. Here’s what each tool does:
 
 As a beginner programmer, I’ve made plenty of mistakes creating this game—from not organizing files to leaving bugs in the code. The graphics aren’t perfect, and there’s a lot to improve. But I’m proud of what I’ve built and hope you enjoy it too!
 
-If you love this project and want to contribute, bring your joy and creativity. We need you to make this game even better!
+If you fell in love with this project and want to contribute, bring your joy and creativity. We need you to make this game even better!
 
