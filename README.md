@@ -166,3 +166,13 @@ If you fell in love with this project and want to contribute, bring your joy and
 
 6. **Open the Main File and Press Run**  
    Open the main Python file in VS Code and press the "Run" button to execute it.
+
+---
+### Technologies Used
+
+The following technologies were used to create this project:
+
+- **Python**: The core programming language powering the game.
+- **Pygame**: Used for creating the graphical user interface and handling game logic.
+- **Tkinter**: Integrated for managing additional UI components, such as input dialogs and tool windows.
+
