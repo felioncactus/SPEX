@@ -2,30 +2,30 @@
 <div align="center">
   <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/main_title.gif?raw=true" alt="Image description">
 </div><br>
-Welcome to the wonderful world of programming! SPEX is a game designed to introduce beginners (just like me) to the basics of coding in a fun and interactive way. Whether you want to program a robot or design an environment, this game has something for you.
+Welcome to the wonderful world of programming! SPEX is a game designed to introduce beginners to the basics of coding in a fun and interactive way!
 
-## Table of Contents
+## :page_with_curl: Table of Contents
 - [Core Philosophy](#core-philosophy)
 - [How to Program a Robot 101](#how-to-program-a-robot-101)
 - [How to Program an Environment 101](#how-to-program-an-environment-101)
-- [Tool Menu: No <EMPTY> Space](#tool-Menu:-no-<EMPTY>-space)
+- [Tool Menu](#tool-menu)
 - [This Project Needs a Hero!](#this-project-needs-a-hero!)
 - [How to play it?](#how-to-play-it?)
 - [Technologies Used](#technologies-used)
 
-## Core Philosophy
+## :scroll: Core Philosophy
 This project is built on two core principles:
 
-1. **Learning by Doing**: The best way to learn is through hands-on experience. Dive in, make mistakes, and learn as you go!
+1. **Learning by Doing**: I strongly believe that the best way to learn is through hands-on experience: dive in, make mistakes, and learn as you go!
    
 2. **Adaptability**: Programming teaches us to handle both fixed ("hard-coded") solutions and flexible, adaptable systems. For example, imagine programming a robot to navigate a maze. You could give it an exact step-by-step algorithm, but what happens if the maze changes? Alternatively, you could create a program that allows the robot to adapt and find the finish line on its own. That’s the spirit of exploration we’re aiming for!
 
 ---
 
-## How to Program a Robot 101
+## <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px> How to Program a Robot 101
 
 This tutorial will guide you through programming your new robotic friend, R1!
-<br>Don’t worry; it’s beginner-friendly and uses Python, a language known for its simplicity and power.
+<br>Your new friend R1 fully understands Python. Python is a flexible, easy-to-read, and powerful language.
 
 ### Meet R1 <br>
 <table>
@@ -78,11 +78,11 @@ Here are the commands R1 understands:
       <table>
           <tr>
              <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/obstacle.png?raw=true" alt="obstacle" width="20"></td>
-             <td><b>obstacle</b></td>
+             <td><b>Obstacle</b></td>
            </tr>
           <tr>
              <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/spike.png?raw=true" alt="spike" width="20"></td>
-             <td><b>spike</b>.</td>
+             <td><b>Spike</b>.</td>
            </tr>
            <tr>
              <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/sand.png?raw=true" alt="Icon 2" width="20"></td>
@@ -169,7 +169,7 @@ for i in range(5):
 
 ---
 
-## How to Program an Environment 101
+## <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px> How to Program an Environment 101
 
 
 
@@ -178,6 +178,9 @@ Programming the environment is just as fun! Press **E** on your keyboard to open
 - **place(item, x, y)**: Places an item at specified coordinates.
 - **remove(item, x, y)**: Removes an item from specified coordinates.
 - **wait(ms)**: Pauses for the specified time.
+
+#### Items that you can place/remove: "obstacle," "spike," "battery," "sand," "water," "glass," "box," "MoveRight," "MoveLeft," "MoveUp," and "MoveDown."
+
 
 ### Environment Programming Interface
 
@@ -206,7 +209,7 @@ while True:
 
 ---
 
-## Tool Menu: No <EMPTY> Space
+## <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/tools.ico" alt="Consolet" width = 20px> Tool Menu
 
 Press **T** to open the tool menu. Here’s what each tool does:
 
@@ -318,15 +321,23 @@ Press **T** to open the tool menu. Here’s what each tool does:
 
 ---
 
-## This Project Needs a Hero!
+## :mag: This Project Needs a Hero!
 
-As a beginner programmer, I’ve made plenty of mistakes creating this game—from not organizing files to leaving bugs in the code. The graphics aren’t perfect, and there’s a lot to improve. But I’m proud of what I’ve built and hope you enjoy it too!
+As a beginner programmer, I’ve made plenty of mistakes creating this game—from not organizing files to leaving bugs in the code. The graphics aren’t perfect, and there’s a lot to improve.
 
 If you fell in love with this project and want to contribute, bring your joy and creativity. We need you to make this game even better!
 
+### To-Do List: Problems to Solve
+
+1.  [ ] Refactor the game to create multiple files that control different aspects of the game.
+2.  [ ] Enhance the level generation algorithm to make it more interesting.
+3.  [ ] Add sound effects.
+4.  [ ] Improve the graphics to make them look more appealing.
+5.  [ ] Add enemies.
+
 ---
 
-## How to play it?
+## :computer: How to play it?
 1. **Install Python**  
    Download and install Python
    
@@ -343,7 +354,7 @@ If you fell in love with this project and want to contribute, bring your joy and
    Open the main Python file in VS Code and press the "Run" button to execute it.
 
 ---
-## Technologies Used
+## :abacus: Technologies Used
 
 The following technologies were used to create this project:
 
