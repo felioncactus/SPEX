@@ -4,7 +4,16 @@
 </div><br>
 Welcome to the wonderful world of programming! SPEX is a game designed to introduce beginners (just like me) to the basics of coding in a fun and interactive way. Whether you want to program a robot or design an environment, this game has something for you.
 
-#### Core Philosophy
+## Table of Contents
+- [Core Philosophy](#core-philosophy)
+- [How to Program a Robot 101](#how-to-program-a-robot-101)
+- [How to Program an Environment 101](#how-to-program-an-environment-101)
+- [Tool Menu: No <EMPTY> Space](#tool-Menu:-no-<EMPTY>-space)
+- [This Project Needs a Hero!](#this-project-needs-a-hero!)
+- [How to play it?](#how-to-play-it?)
+- [Technologies Used](#technologies-used)
+
+## Core Philosophy
 This project is built on two core principles:
 
 1. **Learning by Doing**: The best way to learn is through hands-on experience. Dive in, make mistakes, and learn as you go!
@@ -106,7 +115,7 @@ Here are the commands R1 understands:
 
 **Note**: Each movement consumes energy (**-1pt**), so plan your actions wisely. You’ll learn how to recharge energy later.
 
-#### Example: Move Your Robot
+### Example: Move Your Robot
 Try moving R1 around:
 
 ```python
@@ -122,7 +131,7 @@ MoveDown(2)
 
 To make R1 smarter, you’ll need to learn some basic programming concepts:
 
-#### Conditional Statements
+### Conditional Statements
 Conditional statements help R1 react to its environment. For example:
 
 ```python
@@ -134,7 +143,7 @@ else:
     MoveRight(1)
 ```
 
-#### Loops
+### Loops
 Loops allow R1 to repeat tasks efficiently. Python supports two main types of loops:
 
 - **While Loops**: Repeat while a condition is true.
@@ -309,7 +318,7 @@ Press **T** to open the tool menu. Here’s what each tool does:
 
 ---
 
-### This Project Needs a Hero!
+## This Project Needs a Hero!
 
 As a beginner programmer, I’ve made plenty of mistakes creating this game—from not organizing files to leaving bugs in the code. The graphics aren’t perfect, and there’s a lot to improve. But I’m proud of what I’ve built and hope you enjoy it too!
 
@@ -317,7 +326,7 @@ If you fell in love with this project and want to contribute, bring your joy and
 
 ---
 
-### How to play it?
+## How to play it?
 1. **Install Python**  
    Download and install Python
    
@@ -334,7 +343,7 @@ If you fell in love with this project and want to contribute, bring your joy and
    Open the main Python file in VS Code and press the "Run" button to execute it.
 
 ---
-### Technologies Used
+## Technologies Used
 
 The following technologies were used to create this project:
 
