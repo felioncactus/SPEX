@@ -66,16 +66,40 @@ Here are the commands R1 understands:
       <b>robot_detect(item):</b> Detects specific items or obstacles. <br>
       <b>wait(ms):</b> Pauses for the specified time (in milliseconds) <br>
       <b>items available to detect:</b>
-      <ol>
-        <li>obstacle</li>
-        <li>spike</li>
-        <li>sand</li>
-        <li>water</li>
-        <li>glass</li>
-        <li>box</li>
-        <li>battery</li>
-        <li>finish</li>
-      </ol>
+      <table>
+          <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/obstacle.png?raw=true" alt="obstacle" width="20"></td>
+             <td><b>obstacle</b></td>
+           </tr>
+          <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/spike.png?raw=true" alt="spike" width="20"></td>
+             <td><b>spike</b>.</td>
+           </tr>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/sand.png?raw=true" alt="Icon 2" width="20"></td>
+             <td><b>Sand</b></td>
+           </tr>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/water.png?raw=true" alt="Icon 3" width="20"></td>
+             <td><b>Water</b></td>
+           </tr>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/glass.png?raw=true" alt="Icon 4" width="20"></td>
+             <td><b>Glass</b></td>
+           </tr>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/box.png?raw=true" alt="Icon 5" width="20"></td>
+             <td><b>Box</b></td>
+           </tr>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/finish.png?raw=true" alt="Icon 6" width="20"></td>
+             <td><b>Finish Line</b></td>
+           </tr>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/battery.png?raw=true" alt="Icon 7" width="20"></td>
+             <td><b>Battery</b></td>
+           </tr>
+         </table>
     </td>
   </tr>
 </table>
