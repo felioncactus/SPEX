@@ -5,14 +5,14 @@
 Welcome to the wonderful world of programming! SPEX is a game designed to introduce beginners to the basics of coding in a fun and interactive way!
 
 ## :page_with_curl: Table of Contents
-- :scroll: [Core Philosophy](#core-philosophy)
-- <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px> [How to Program a Robot 101](#how-to-program-a-robot-101)
-- <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px> [How to Program an Environment 101](#how-to-program-an-environment-101)
+- :scroll: [Core Philosophy](#core-philosophy-)
+- <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px> [How to Program a Robot 101](#how-to-program-a-robot-101-)
+- <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px> [How to Program an Environment 101](#how-to-program-an-environment-101-)
 - <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/tools.ico" alt="Consolet" width = 20px> [Tool Menu](#tool-menu)
-- :mag: [This Project Needs a Hero!](#this-project-needs-a-hero!)
-- :computer: [How to play it?](#how-to-play-it?)
-- :abacus: [Technologies Used](#technologies-used)
-- :page_facing_up: [License](#license)
+- :mag: [This Project Needs a Hero!](#this-project-needs-a-hero!-)
+- :computer: [How to play it?](#how-to-play-it?-)
+- :abacus: [Technologies Used](#technologies-used-)
+- :page_facing_up: [License](#license-)
   
 ## Core Philosophy :scroll:
 This project is built on two core principles:
