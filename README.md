@@ -226,7 +226,7 @@ Press **T** to open the tool menu. Here’s what each tool does:
   </tr>
      <tr>
     <td>
-      <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/tools.ico" alt="Blocks">
+      <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/spike.png?raw=true" alt="Blocks">
     </td>
     <td>
          <table>
