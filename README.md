@@ -125,6 +125,7 @@ MoveDown(2)
 ```
 
 **Challenge**: Place a box at coordinates (5, 2), pick it up, and move it to (7, 4). Use the cursor to find coordinates and plan your algorithm.
+
 **Note**: To place an item, click the left mouse button, and to delete, press the right mouse button. You can delete only when you are holding that item. This was done to prevent accidentally deleting other items.
 ---
 
