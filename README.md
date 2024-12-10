@@ -1,5 +1,7 @@
 # SPEX - Spirit of Exploration
-![Title image](https://github.com/felioncactus/SPEX/blob/main/screenshots/main_title.gif?raw=true) <br>
+<div align="center">
+  <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/main_title.gif?raw=true" alt="Image description">
+</div><br>
 Welcome to the wonderful world of programming! SPEX is a game designed to introduce beginners (just like me) to the basics of coding in a fun and interactive way. Whether you want to program a robot or design an environment, this game has something for you.
 
 #### Core Philosophy
@@ -11,27 +13,74 @@ This project is built on two core principles:
 
 ---
 
-### How to Program a Robot 101
+## How to Program a Robot 101
 
-This tutorial will guide you through programming your new robotic friend, R1 ![Your Robot](https://github.com/felioncactus/SPEX/blob/main/screenshots/Robot.png)!
+This tutorial will guide you through programming your new robotic friend, R1!
 <br>Don’t worry; it’s beginner-friendly and uses Python, a language known for its simplicity and power.
 
-#### Meet R1
-R1 is waiting for you to take control. Press **P** on your keyboard to open the programming window. Here, you can write commands for R1 and click the **Run** button to execute them.
+### Meet R1 <br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/Robot.png" alt="Your Robot">
+    </td>
+    <td>
+      R1 is waiting for you to take control. Press <b>P</b> on your keyboard to open the programming window. Here, you can write commands for R1 and click the <b>RUN</b> button to execute them.
+    </td>
+  </tr>
+</table>
 
-#### Basic Commands
+### Robot Programming Interface
+
+![Robot Programming Interface](https://github.com/felioncactus/SPEX/blob/main/screenshots/wd_prALL.png?raw=true)
+
+### Basic Commands
 Here are the commands R1 understands:
 
-- **MoveLeft(steps)**: Moves left by the specified number of steps.
-- **MoveRight(steps)**: Moves right by the specified number of steps.
-- **MoveUp(steps)**: Moves up by the specified number of steps.
-- **MoveDown(steps)**: Moves down by the specified number of steps.
-- **pickUP()**: Picks up a box.
-- **placeIT()**: Places a box.
-- **robot_detect(item)**: Detects specific items or obstacles.
-- **wait(ms)**: Pauses for the specified time (in milliseconds).
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/move.gif?raw=true" alt="Your Robot" width = 450px>
+    </td>
+    <td>
+      <b>MoveLeft(steps):</b> Moves left by the specified number of steps. <br>
+      <b>MoveRight(steps):</b> Moves right by the specified number of steps. <br>
+      <b>MoveUp(steps):</b> Moves up by the specified number of steps. <br>
+      <b>MoveDown(steps):<b> Moves down by the specified number of steps.<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/box.gif?raw=true" alt="Your Robot" width = 450px>
+    </td>
+    <td>
+      <b>pickUP():</b> Picks up a box. <br>
+      <b>placeIT():</b> Places a box. <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/robot_detect.gif?raw=true" alt="Your Robot" width = 450px>
+    </td>
+    <td>
+      <b>robot_detect(item):</b> Detects specific items or obstacles. <br>
+      <b>wait(ms):</b> Pauses for the specified time (in milliseconds) <br>
+      <b>items available to detect:</b>
+      <ol>
+        <li>obstacle</li>
+        <li>spike</li>
+        <li>sand</li>
+        <li>water</li>
+        <li>glass</li>
+        <li>box</li>
+        <li>battery</li>
+        <li>finish</li>
+      </ol>
+    </td>
+  </tr>
+</table>
 
-**Note**: Each movement consumes energy, so plan your actions wisely. You’ll learn how to recharge energy later.
+**Note**: Each movement consumes energy (**-1pt**), so plan your actions wisely. You’ll learn how to recharge energy later.
 
 #### Example: Move Your Robot
 Try moving R1 around:
@@ -87,7 +136,9 @@ for i in range(5):
 
 ---
 
-### How to Program an Environment 101
+## How to Program an Environment 101
+
+
 
 Programming the environment is just as fun! Press **E** on your keyboard to open the environment editor. Here are the new commands:
 
@@ -95,7 +146,11 @@ Programming the environment is just as fun! Press **E** on your keyboard to open
 - **remove(item, x, y)**: Removes an item from specified coordinates.
 - **wait(ms)**: Pauses for the specified time.
 
-#### Example: Randomized Battery Placement
+### Environment Programming Interface
+
+![Environment Programming Interface](https://github.com/felioncactus/SPEX/blob/main/screenshots/environ.gif?raw=true)
+
+### Example: Randomized Battery Placement
 Here’s how to place and remove a battery randomly:
 
 ```python
@@ -118,29 +173,115 @@ while True:
 
 ---
 
-### Tool Menu: No <EMPTY> Space
+## Tool Menu: No <EMPTY> Space
 
 Press **T** to open the tool menu. Here’s what each tool does:
 
-- **Obstacle**: Blocks R1’s path.
-- **Spike**: Sends R1 back to its starting position.
-- **Movement Blocks**: Change R1’s direction automatically.
-- **Sand**: Slows R1 and costs -5 energy per step.
-- **Water**: Slows R1 and costs -10 energy per step.
-- **Glass**: Costs -20 energy per step.
-- **Box**: Can be picked up and placed.
-- **Finish Line**: Ends the level and shows R1’s performance.
-- **Battery**: Recharges +20 energy.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/obstacle.png?raw=true" alt="Obstacle">
+    </td>
+    <td>
+      <b>Obstacle:</b> Blocks R1’s path. <br>
+    </td>
+     <td>
+        <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/obstacle.gif?raw=true" alt="Obstacle" width = 300px>
+     </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/spike.png?raw=true" alt="Spike">
+    </td>
+    <td>
+      <b>Spike:</b> Sends R1 back to its starting position. <br>
+    </td>
+     <td>
+        <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/spikes.gif?raw=true" alt="Obstacle" width = 300px>
+     </td>
+  </tr>
+     <tr>
+    <td>
+      <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/tools.ico" alt="Blocks">
+    </td>
+    <td>
+         <table>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/moveRight.png?raw=true" alt="Icon 1" width="20"></td>
+             <td><b>Movement Blocks:</b> Change R1’s direction automatically.</td>
+           </tr>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/sand.png?raw=true" alt="Icon 2" width="20"></td>
+             <td><b>Sand:</b> Slows R1 and costs -5 energy per step.</td>
+           </tr>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/water.png?raw=true" alt="Icon 3" width="20"></td>
+             <td><b>Water:</b> Slows R1 and costs -10 energy per step.</td>
+           </tr>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/glass.png?raw=true" alt="Icon 4" width="20"></td>
+             <td><b>Glass:</b> Costs -20 energy per step.</td>
+           </tr>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/box.png?raw=true" alt="Icon 5" width="20"></td>
+             <td><b>Box:</b> Can be picked up and placed.</td>
+           </tr>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/finish.png?raw=true" alt="Icon 6" width="20"></td>
+             <td><b>Finish Line:</b> Ends the level and shows R1’s performance.</td>
+           </tr>
+           <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/battery.png?raw=true" alt="Icon 7" width="20"></td>
+             <td><b>Battery:</b> Recharges +20 energy.</td>
+           </tr>
+            <tr>
+             <td><img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/generate.png?raw=true" alt="Icon 8" width="20"></td>
+             <td><b>Generate Level:</b> Generate Level.</td>
+           </tr>
+         </table>
+    </td>
+     <td>
+        <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/blocks.gif?raw=true" alt="Obstacle" width = 300px>
+     </td>
+  </tr>
+</table>
 
 **Challenge**: Program R1 to navigate a generated level and reach the finish line!
+
+### Example of Generate Level
+
+![Generate Level](https://github.com/felioncactus/SPEX/blob/main/screenshots/generatelevel.gif?raw=true)
 
 ---
 
 ### Game Controls
 
-- **[O]**: Restart R1’s position.
-- **[^]**: Restart the game.
-- **[X]**: Exit the game.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/reloadPosBTN.png?raw=true" alt="Your Robot" width = 50px>
+    </td>
+    <td>
+      Restart R1’s position. <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/reloadGameBTN.png?raw=true" alt="Your Robot" width = 50px>
+    </td>
+    <td>
+      Restart the game. <br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/felioncactus/SPEX/blob/main/screenshots/exitBTN.png?raw=true" alt="Your Robot" width = 50px>
+    </td>
+    <td>
+      Exit the game. <br>
+    </td>
+  </tr>
+</table>
 
 ---
 
