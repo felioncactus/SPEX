@@ -42,7 +42,9 @@ This tutorial will guide you through programming your new robotic friend, R1!
 
 ### Robot Programming Interface
 
-![Robot Programming Interface](https://github.com/felioncactus/SPEX/blob/main/screenshots/wd_prALL.png?raw=true)
+![Robot Programming Interface](https://github.com/felioncactus/SPEX/blob/main/screenshots/wd_prALL.png?raw=true) <br>
+
+**Note:** The programming window editor features auto-indent and syntax highlighting, with a tab size specified as 4 spaces.
 
 ### Basic Commands
 Here are the commands R1 understands:
