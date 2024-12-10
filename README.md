@@ -13,7 +13,8 @@ This project is built on two core principles:
 
 ### How to Program a Robot 101
 
-This tutorial will guide you through programming your new robotic friend, R1! Don’t worry; it’s beginner-friendly and uses Python, a language known for its simplicity and power.
+This tutorial will guide you through programming your new robotic friend, R1 ![Your Robot](https://github.com/felioncactus/SPEX/blob/main/screenshots/Robot.png)!
+<br>Don’t worry; it’s beginner-friendly and uses Python, a language known for its simplicity and power.
 
 #### Meet R1
 R1 is waiting for you to take control. Press **P** on your keyboard to open the programming window. Here, you can write commands for R1 and click the **Run** button to execute them.
