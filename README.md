@@ -66,6 +66,7 @@ Here are the commands R1 understands:
     <td>
       <b>pickUP():</b> Picks up a box. <br>
       <b>placeIT():</b> Places a box. <br>
+      While carrying the box, the robot will lose 5 points of energy for every step.
     </td>
   </tr>
   <tr>
