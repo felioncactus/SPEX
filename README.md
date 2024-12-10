@@ -5,14 +5,15 @@
 Welcome to the wonderful world of programming! SPEX is a game designed to introduce beginners to the basics of coding in a fun and interactive way!
 
 ## :page_with_curl: Table of Contents
-- [Core Philosophy](#core-philosophy) :scroll:
-- [How to Program a Robot 101](#how-to-program-a-robot-101) <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px>
-- [How to Program an Environment 101](#how-to-program-an-environment-101) <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px>
-- [Tool Menu](#tool-menu) <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/tools.ico" alt="Consolet" width = 20px>
-- [This Project Needs a Hero!](#this-project-needs-a-hero!) :mag:
-- [How to play it?](#how-to-play-it?) :computer:
-- [Technologies Used](#technologies-used) :abacus:
-
+- :scroll: [Core Philosophy](#core-philosophy)
+- <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px> [How to Program a Robot 101](#how-to-program-a-robot-101)
+- <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px> [How to Program an Environment 101](#how-to-program-an-environment-101)
+- <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/tools.ico" alt="Consolet" width = 20px> [Tool Menu](#tool-menu)
+- :mag: [This Project Needs a Hero!](#this-project-needs-a-hero!)
+- :computer: [How to play it?](#how-to-play-it?)
+- :abacus: [Technologies Used](#technologies-used)
+- :page_facing_up: [License](#license)
+  
 ## Core Philosophy :scroll:
 This project is built on two core principles:
 
@@ -361,4 +362,8 @@ The following technologies were used to create this project:
 - **Python**: The core programming language powering the game.
 - **Pygame**: Used for creating the graphical user interface and handling game logic.
 - **Tkinter**: Integrated for managing additional UI components, such as input dialogs and tool windows.
+
+---
+## License :page_facing_up:
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
