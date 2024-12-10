@@ -13,7 +13,7 @@ Welcome to the wonderful world of programming! SPEX is a game designed to introd
 - [How to play it?](#how-to-play-it?) :computer:
 - [Technologies Used](#technologies-used) :abacus:
 
-:scroll: ## Core Philosophy
+## Core Philosophy :scroll:
 This project is built on two core principles:
 
 1. **Learning by Doing**: I strongly believe that the best way to learn is through hands-on experience: dive in, make mistakes, and learn as you go!
@@ -22,7 +22,7 @@ This project is built on two core principles:
 
 ---
 
-<img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px> ## How to Program a Robot 101
+## How to Program a Robot 101 <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px> 
 
 This tutorial will guide you through programming your new robotic friend, R1!
 <br>Your new friend R1 fully understands Python. Python is a flexible, easy-to-read, and powerful language.
@@ -169,7 +169,7 @@ for i in range(5):
 
 ---
 
-<img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px> ## How to Program an Environment 101
+## How to Program an Environment 101 <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/icon.ico" alt="Consolet" width = 20px>
 
 
 
@@ -209,7 +209,7 @@ while True:
 
 ---
 
-<img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/tools.ico" alt="Consolet" width = 20px> ## Tool Menu
+## Tool Menu <img src="https://github.com/felioncactus/SPEX/blob/main/textures/icons/tools.ico" alt="Consolet" width = 20px> 
 
 Press **T** to open the tool menu. Here’s what each tool does:
 
@@ -321,7 +321,7 @@ Press **T** to open the tool menu. Here’s what each tool does:
 
 ---
 
-:mag: ## This Project Needs a Hero!
+## This Project Needs a Hero! :mag:
 
 As a beginner programmer, I’ve made plenty of mistakes creating this game—from not organizing files to leaving bugs in the code. The graphics aren’t perfect, and there’s a lot to improve.
 
@@ -337,7 +337,7 @@ If you fell in love with this project and want to contribute, bring your joy and
 
 ---
 
-:computer: ## How to play it?
+## How to play it? :computer: 
 1. **Install Python**  
    Download and install Python
    
@@ -354,7 +354,7 @@ If you fell in love with this project and want to contribute, bring your joy and
    Open the main Python file in VS Code and press the "Run" button to execute it.
 
 ---
-:abacus: ## Technologies Used
+## Technologies Used :abacus: 
 
 The following technologies were used to create this project:
 
